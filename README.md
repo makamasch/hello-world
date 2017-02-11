@@ -1,2 +1,3 @@
 # hello-world
 Well, this is just to try out the functions as suggested in the Guide. First baby steps!
+Ok, so I am just supposed to write a few things about myself here. All this Github stuff  seems like I am entering a new world...
